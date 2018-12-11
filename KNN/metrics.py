@@ -1,3 +1,4 @@
+'''3,第三步求准确度accuracy'''
 import numpy as np
 
 def accuracy_score(y_true,y_predict):
